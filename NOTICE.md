@@ -32,7 +32,9 @@ Works). Because lamejs is pure JavaScript, its corresponding source is also dire
 available from npm and from the upstream repository.
 
 The full text of the GNU **LGPL-3.0** and **GPL-3.0** is available at
-<https://www.gnu.org/licenses/lgpl-3.0.html> and <https://www.gnu.org/licenses/gpl-3.0.html>.
+<https://www.gnu.org/licenses/lgpl-3.0.html> and <https://www.gnu.org/licenses/gpl-3.0.html>,
+and is also bundled in this repository as [`COPYING.LESSER`](./COPYING.LESSER) and
+[`COPYING`](./COPYING) per LGPL-3.0 §4(b).
 
 ---
 
